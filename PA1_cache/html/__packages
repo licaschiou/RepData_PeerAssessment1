@@ -2,3 +2,5 @@ base
 knitr
 ggplot2
 xtable
+plyr
+gridExtra
